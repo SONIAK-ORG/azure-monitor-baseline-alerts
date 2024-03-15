@@ -6,10 +6,10 @@
       "value": "soniak"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "soniak-platform"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "soniak-identity"
     },
     "managementManagementGroup": {
       "value": "soniak-management"
