@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "soniak"
     },
     "platformManagementGroup": {
       "value": "contoso-platform"
@@ -12,13 +12,13 @@
       "value": "contoso-identity"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "soniak-management"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "soniak-connectivity"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "soniak-landing-zones"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
